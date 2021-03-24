@@ -1,0 +1,406 @@
+Parikinson's Disease GWAS					
+Reported Trait	Trait(s)	Variant and risk allele	Study accession	Mapped gene	P-Value
+"	Early-onset Parkinson's disease"	Young adult-onset Parkinsonism	chr21:46916033-?	GCST004138	-	"	8 x 10^-240"
+"	Early-onset Parkinson's disease"	Young adult-onset Parkinsonism	chr3:64699445-?	GCST004138	-	6 x 10^-44
+"	Early-onset Parkinson's disease"	Young adult-onset Parkinsonism	chr12:27737074-?	GCST004138	-	1 x 10^-33
+"	Early-onset Parkinson's disease"	Young adult-onset Parkinsonism	chr16:29348809-?	GCST004138	-	4 x 10^-28
+"	Early-onset Parkinson's disease"	Young adult-onset Parkinsonism	chr16:79360135-?	GCST004138	-	3 x 10^-27
+"	Early-onset Parkinson's disease"	Young adult-onset Parkinsonism	chr8:135611154-?	GCST004138	-	3 x 10^-96
+"	Early-onset Parkinson's disease"	Young adult-onset Parkinsonism	chr19:22620820-?	GCST004138	-	6 x 10^-25
+"	Early-onset Parkinson's disease"	Young adult-onset Parkinsonism	chr7:111916329-?	GCST004138	-	"	2 x 10^-16"
+"	Early-onset Parkinson's disease"	Young adult-onset Parkinsonism	chr5:108436958-?	GCST004138	-	4 x 10^-133
+"	Early-onset Parkinson's disease"	Young adult-onset Parkinsonism	chr5:120977240-?	GCST004138	-	3 x 10^-46
+"	Early-onset Parkinson's disease"	Young adult-onset Parkinsonism	chr9:111929013-?	GCST004138	-	2 x 10^-31
+"	Early-onset Parkinson's disease"	Young adult-onset Parkinsonism	chr1:164546863-?	GCST004138	-	1 x 10^-10
+"	Early-onset Parkinson's disease"	Young adult-onset Parkinsonism	chr9:135955826-?	GCST004138	-	1 x 10^-14
+Parkinson's disease (motor and cognition)	Parkinson's disease	rs10958605-?	GCST001546	"SIRLNT, AC022733.1"	2 x 10^-6
+Parkinson's disease (motor and cognition)	Parkinson's disease	rs959573-?	GCST001546	"MARCHF3, LMNB1"	5 x 10^-6
+Parkinson's disease (motor and cognition)	Parkinson's disease	rs6482992-?	GCST001546	CLRN3	4 x 10^-6
+Parkinson's disease (motor and cognition)	Parkinson's disease	rs17000647-?	GCST001546	"	ODAPH"	5 x 10^-6
+Parkinson's disease (motor and cognition)	Parkinson's disease	rs3027247-?	GCST001546	CTC1	9 x 10^-6
+Parkinson's disease	Parkinson's disease	kgp7172368-?	GCST003984	-	1 x 10^-6
+Parkinson's disease	Parkinson's disease	kgp8130520-?	GCST003984	-	1 x 10^-6
+Parkinson's disease	Parkinson's disease	kgp348599-?	GCST003984	-	1 x 10^-6
+Parkinson's disease	Parkinson's disease	rs28903073-?	GCST003984	LRRK2	1 x 10^-39
+Parkinson's disease	Parkinson's disease	rs144847051-?	GCST003984	"SYT10, AC087311.2"	4 x 10^-21
+Parkinson's disease	Parkinson's disease	rs17425622-?	GCST003984	"HLA-DRB1, HLA-DQA1"	4 x 10^-17
+Parkinson's disease	Parkinson's disease	rs2230288-?	GCST003984	GBA	5 x 10^-17
+Parkinson's disease	Parkinson's disease	rs13016703-?	GCST003984	"	RN7SL813P, STK39"	3 x 10^-16
+Parkinson's disease	Parkinson's disease	rs35541465-?	GCST003984	GAK	3 x 10^-15
+Parkinson's disease	Parkinson's disease	rs11158026-?	GCST003984	GCH1	"	9 x 10^-15"
+Parkinson's disease	Parkinson's disease	rs9858038-?	GCST003984	"MCCC1, DCUN1D1"	3 x 10^-14
+Parkinson's disease	Parkinson's disease	rs10256359-?	GCST003984	"KLHL7-DT, FAM126A"	2 x 10^-12
+Parkinson's disease	Parkinson's disease	rs823118-?	GCST003984	"RAB29, NUCKS1"	"	6 x 10^-12"
+Parkinson's disease	Parkinson's disease	rs188789342-?	GCST003984	"RAD1P1, TIAL1"	3 x 10^-11
+Parkinson's disease	Parkinson's disease	rs6812193-?	GCST003984	"	FAM47E-STBD1, AC034139.1, FAM47E"	7 x 10^-11
+Parkinson's disease	Parkinson's disease	rs4266290-?	GCST003984	BST1	8 x 10^-11
+Parkinson's disease	Parkinson's disease	rs4130047-?	GCST003984	"RIT2	"	2 x 10^-10
+Parkinson's disease	Parkinson's disease	rs4713118-?	GCST003984	"	AL009179.1"	2 x 10^-10
+Parkinson's disease	Parkinson's disease	rs11060180-?	GCST003984	CCDC62	3 x 10^-10
+Parkinson's disease	Parkinson's disease	rs687432-?	GCST003984	"OR5BD1P, OR5AZ1P"	2 x 10^-9
+Parkinson's disease	Parkinson's disease	rs148294058-?	GCST003984	LINC02451	5 x 10^-9
+Parkinson's disease	Parkinson's disease	rs2209440-?	GCST003984	SH3GL2	8 x 10^-9
+Parkinson's disease	Parkinson's disease	rs11343-?	GCST003984	SYT17	1 x 10^-8
+Parkinson's disease	Parkinson's disease	rs162227-?	GCST003984	NDUFAF2	1 x 10^-8
+Parkinson's disease	Parkinson's disease	rs144074972-?	GCST003984	"	CA8"	6 x 10^-8
+Parkinson's disease	Parkinson's disease	rs601999-?	GCST003984	AC067852.1	7 x 10^-8
+Parkinson's disease	Parkinson's disease	rs356182-?	GCST003984	"	AC093866.1, SNCA"	1 x 10^-56
+Parkinson's disease	Parkinson's disease	rs365825-?	GCST003984	"	LINC02210-CRHR1, LINC02210"	4 x 10^-32
+Parkinson's disease (age at diagnosis)	"Parkinson's disease, age at diagnosis"	rs73656147-?	GCST007198	"	PLPPR1"	9 x 10^-9
+Parkinson's disease	Parkinson's disease	rs6599388-T	GCST000959	TMEM175	4 x 10^-12
+Parkinson's disease	Parkinson's disease	rs11724635-A	GCST000959	BST1	1 x 10^-16
+Parkinson's disease	Parkinson's disease	rs1491942-G	GCST000959	"	LRRK2"	6 x 10^-14
+Parkinson's disease	Parkinson's disease	rs34372695-T	GCST000959	"RAB25, LAMTOR2"	4 x 10^-12
+Parkinson's disease	Parkinson's disease	rs6710823-G	GCST000959	CCNT2-AS1	7 x 10^-9
+Parkinson's disease	Parkinson's disease	rs11711441-G	GCST000959	MCCC1	8 x 10^-12
+Parkinson's disease	Parkinson's disease	rs356219-G	GCST000959	"SNCA, AC093866.1"	2 x 10^-47
+Parkinson's disease	Parkinson's disease	rs2102808-C	GCST000959	"RN7SL813P, STK39"	4 x 10^-10
+Parkinson's disease	Parkinson's disease	6:32588205-A	GCST000959	-	2 x 10^-14
+Parkinson's disease	Parkinson's disease	rs12817488-T	GCST000959	"	CCDC62"	3 x 10^-13
+Parkinson's disease	Parkinson's disease	rs356220-T	GCST000772	"AC093866.1, SNCA"	3 x 10^-11
+Parkinson's disease	Parkinson's disease	rs11248051-T	GCST000772	GAK	3 x 10^-9
+Parkinson's disease	Parkinson's disease	rs199533-C	GCST000772	"	NSF"	1 x 10^-6
+Parkinson's disease	Parkinson's disease	"rs7702187-?	"	GCST000002	SEMA5A	"8 x 10^-6	"
+Parkinson's disease	Parkinson's disease	rs1480597-?	GCST000005	"TMEM72-AS1, AL356157.1"	2 x 10^-6
+Parkinson's disease	Parkinson's disease	rs2242330-?	GCST000005	STAP1	2 x 10^-6
+Parkinson's disease	Parkinson's disease	rs10501570-?	GCST000005	DLG2	7 x 10^-6
+Parkinson's disease	Parkinson's disease	rs11931074-?	GCST000530	"	AC093866.1, SNCA"	"	7 x 10^-17"
+Parkinson's disease	Parkinson's disease	rs4538475-?	GCST000530	BST1	3 x 10^-9
+Parkinson's disease	Parkinson's disease	rs1994090-?	GCST000530	SLC2A13	"	3 x 10^-8"
+Parkinson's disease	Parkinson's disease	rs947211-?	GCST000530	AC119673.2	2 x 10^-12
+Parkinson's disease (familial)	Parkinson's disease	rs1564282-T	GCST000261	GAK	"	7 x 10^-7"
+Parkinson's disease	Parkinson's disease	rs11012-T	GCST000567	PLEKHM1	6 x 10^-8
+Parkinson's disease	Parkinson's disease	rs12063142-?	GCST000567	"PAX7, TAS1R2"	5 x 10^-7
+Parkinson's disease	Parkinson's disease	rs4837628-A	GCST000567	"	BRINP1"	1 x 10^-6
+Parkinson's disease	Parkinson's disease	rs11248060-?	GCST000567	DGKQ	"	2 x 10^-6"
+Parkinson's disease	Parkinson's disease	rs10464059-A	GCST000567	"GFPT2, AC034213.1"	3 x 10^-6
+Parkinson's disease	Parkinson's disease	rs2736990-?	GCST000567	"	SNCA"	7 x 10^-8
+Parkinson's disease	Parkinson's disease	rs6812193-C	GCST001126	"FAM47E-STBD1, AC034139.1, FAM47E"	"	8 x 10^-10"
+Parkinson's disease	Parkinson's disease	rs356220-T	GCST001126	"AC093866.1, SNCA"	"	2 x 10^-19"
+Parkinson's disease	Parkinson's disease	rs12185268-A	GCST001126	"MAPT-AS1, SPPL2C"	"	3 x 10^-14"
+Parkinson's disease	Parkinson's disease	rs10513789-T	GCST001126	"	MCCC1"	3 x 10^-10
+Parkinson's disease	Parkinson's disease	rs6599389-A	GCST001126	TMEM175	4 x 10^-8
+Parkinson's disease	Parkinson's disease	rs4130047-C	GCST001126	"	RIT2"	2 x 10^-7
+Parkinson's disease	Parkinson's disease	rs11868035-G	GCST001126	"	SREBF1"	"	6 x 10^-8"
+Parkinson's disease	Parkinson's disease	rs34637584-A	GCST001126	LRRK2	2 x 10^-28
+Parkinson's disease	Parkinson's disease	i4000416-C	GCST001126	-	5 x 10^-21
+Parkinson's disease	Parkinson's disease	rs823156-A	GCST001126	"	SLC41A1"	1 x 10^-7
+Parkinson's disease	Parkinson's disease	rs2823357-A	GCST001126	AJ009632.2	6 x 10^-7
+Parkinson's disease	Parkinson's disease	rs183211-T	GCST001189	"	NSF"	3 x 10^-7
+Parkinson's disease	Parkinson's disease	rs10121009-A	GCST001189	UNC13B	3 x 10^-6
+Parkinson's disease	Parkinson's disease	rs415430-T	GCST001189	WNT3	7 x 10^-7
+Parkinson's disease	Parkinson's disease	rs7118648-G	GCST002077	CCDC82	2 x 10^-7
+Parkinson's disease	Parkinson's disease	rs3935740-T	GCST002077	"	TMC3-AS1, TMC3"	"	2 x 10^-7"
+Parkinson's disease	Parkinson's disease	rs17497526-G	GCST002077	COL13A1	"	6 x 10^-7"
+Parkinson's disease	Parkinson's disease	kgp8090149-?	GCST003059	-	"	1 x 10^-6"
+Parkinson's disease	Parkinson's disease	rs849898-?	GCST003059	"	WNT9A, CICP26"	"	1 x 10^-6"
+Parkinson's disease	Parkinson's disease	kgp11353523-?	GCST003059	-	"	1 x 10^-6"
+Parkinson's disease	Parkinson's disease	rs11186-?	GCST003059	"	COL5A2"	"	1 x 10^-6"
+Parkinson's disease	Parkinson's disease	kgp760898-?	GCST003059	-	"	1 x 10^-6"
+Parkinson's disease	Parkinson's disease	rs6783485-?	GCST003059	"	AC126121.3"	"	1 x 10^-6"
+Parkinson's disease	Parkinson's disease	rs1879553-?	GCST003059	"AC068633.1, IGSF11"	"	1 x 10^-6"
+Parkinson's disease	Parkinson's disease	kgp9482779-?	GCST003059	-	"	1 x 10^-6"
+Parkinson's disease	Parkinson's disease	rs13153459-?	GCST003059	LINC02224	"	1 x 10^-6"
+Parkinson's disease	Parkinson's disease	kgp154172-?	GCST003059	-	"	1 x 10^-6"
+Parkinson's disease	Parkinson's disease	kgp4105983-?	GCST003059	-	"	1 x 10^-6"
+Parkinson's disease	Parkinson's disease	rs10746953-?	GCST003059	"	AL355674.1, AL513124.1"	"	1 x 10^-6"
+Parkinson's disease	Parkinson's disease	kgp10769919-?	GCST003059	-	"	1 x 10^-6"
+Parkinson's disease	Parkinson's disease	kgp6542803-?	GCST003059	-	"	1 x 10^-6"
+Parkinson's disease	Parkinson's disease	kgp9550589-?	GCST003059	-	"	1 x 10^-6"
+Parkinson's disease	Parkinson's disease	rs9323124-?	GCST003059	"RPA2P1, MDGA2"	"	1 x 10^-6"
+Parkinson's disease	Parkinson's disease	kgp11333367-?	GCST003059	-	"	1 x 10^-6"
+Parkinson's disease	Parkinson's disease	rs1362858-?	GCST003059	"	AC007998.3, AC007998.4"	"	1 x 10^-6"
+Parkinson's disease	Parkinson's disease	kgp4156164-?	GCST003059	-	"	1 x 10^-6"
+"Parkinson's disease (familial, age at onset)"	"Parkinson's disease, age at onset"	rs344650-G	GCST003652	"	LHFPL2"	"	1 x 10^-11"
+"Parkinson's disease (familial, age at onset)"	"Parkinson's disease, age at onset"	rs74335301-?	GCST003652	TRPS1	3 x 10^-6
+"Parkinson's disease (familial, age at onset)"	"Parkinson's disease, age at onset"	rs79503702-?	GCST003652	KLHDC1	"	5 x 10^-8"
+"Parkinson's disease (familial, age at onset)"	"Parkinson's disease, age at onset"	rs117267308-A	GCST003652	TPM1	"	9 x 10^-11"
+Parkinson's disease	Parkinson's disease	rs2338971-C	GCST002353	"	LINC01709, LINC01307"	4 x 10^-10
+Parkinson's disease	Parkinson's disease	rs356220-T	GCST002353	"AC093866.1, SNCA"	1 x 10^-9
+Parkinson's disease	Parkinson's disease	rs356220-T	GCST002353	"AC093866.1, SNCA"	"	3 x 10^-11"
+Parkinson's disease	Parkinson's disease	rs3129882-G	GCST002353	HLA-DRA	"	3 x 10^-8"
+Parkinson's disease	Parkinson's disease	rs3129882-G	GCST002353	HLA-DRA	5 x 10^-10
+Parkinson's disease	Parkinson's disease	rs199498-T	GCST002353	WNT3	"	2 x 10^-6"
+Parkinson's disease	Parkinson's disease	rs199498-T	GCST002353	WNT3	8 x 10^-7
+Parkinson's disease	Parkinson's disease	rs2338971-C	GCST002353	"	LINC01709, LINC01307"	5 x 10^-10
+Parkinson's disease	Parkinson's disease	rs591323-G	GCST004902	AC011586.2	2 x 10^-11
+Parkinson's disease	Parkinson's disease	rs117896735-A	GCST004902	INPP5F	"	2 x 10^-19"
+Parkinson's disease	Parkinson's disease	rs3793947-G	GCST004902	DLG2	4 x 10^-9
+Parkinson's disease	Parkinson's disease	rs329648-T	GCST004902	"AP001979.1, IGSF9B"	1 x 10^-13
+Parkinson's disease	Parkinson's disease	rs17767294-G	GCST004902	"ZSCAN16-AS1, ZNF165"	2 x 10^-7
+Parkinson's disease	Parkinson's disease	rs943437-A	GCST004902	"LINC02527, CCN6"	6 x 10^-8
+Parkinson's disease	Parkinson's disease	rs1555399-T	GCST004902	"	TMEM229B"	1 x 10^-10
+Parkinson's disease	Parkinson's disease	rs2414739-A	GCST004902	AC018618.1	4 x 10^-14
+Parkinson's disease	Parkinson's disease	rs14235-A	GCST004902	BCKDK	5 x 10^-12
+Parkinson's disease	Parkinson's disease	rs17649553-C	GCST004902	MAPT	1 x 10^-68
+Parkinson's disease	Parkinson's disease	rs12456492-G	GCST004902	RIT2	6 x 10-^16
+Parkinson's disease	Parkinson's disease	rs62120679-T	GCST004902	"	TMPRSS9"	7 x 10^-7
+Parkinson's disease	Parkinson's disease	rs8118008-A	GCST004902	"DDRGK1, LZTS3"	2 x 10^-6
+Parkinson's disease	Parkinson's disease	rs4653767-T	GCST004902	ITPKB	2 x 10^-11
+Parkinson's disease	Parkinson's disease	rs34043159-C	GCST004902	MAP4K4	5 x 10^-11
+Parkinson's disease	Parkinson's disease	rs353116-C	GCST004902	SCN2A	3 x 10^-8
+Parkinson's disease	Parkinson's disease	rs6430538-C	GCST004902	CCNT2-AS1	8 x 10^-24
+Parkinson's disease	Parkinson's disease	rs12497850-T	GCST004902	IP6K2	9 x 10^-9
+Parkinson's disease	Parkinson's disease	rs143918452-A	GCST004902	ITIH1	3 x 10^-8
+Parkinson's disease	Parkinson's disease	rs78738012-C	GCST004902	"CAMK2D, RNU1-138P"	5 x 10^-11
+Parkinson's disease	Parkinson's disease	rs6812193-C	GCST004902	"FAM47E-STBD1, AC034139.1, FAM47E"	1 x 10^-14
+Parkinson's disease	Parkinson's disease	rs9468199-A	GCST004902	"AL009179.1, GPR89P"	1 x 10^-12
+Parkinson's disease	Parkinson's disease	rs9275326-C	GCST004902	"MTCO3P1, HLA-DQB1"	1 x 10^-13
+Parkinson's disease	Parkinson's disease	rs2280104-T	GCST004902	"	BIN3"	3 x 10^-8
+Parkinson's disease (pesticide exposure interaction)	"Parkinson's disease, pesticide exposure measurement"	rs67383717-?	GCST003600	LINC00476	2 x 10^-6
+Parkinson's disease	Parkinson's disease	rs10929159-A	"	GCST004902"	"	AGAP1"	"	7 x 10^-8"
+Parkinson's disease	Parkinson's disease	rs67460515-C	"	GCST004902"	SPTSSB	1 x 10^-6
+Parkinson's disease	Parkinson's disease	rs10463554-T	"	GCST004902"	PAM	2 x 10^-7
+Parkinson's disease	Parkinson's disease	rs76904798-T	"	GCST004902"	"	LRRK2, LRRK2-DT"	1 x 10^-19
+Parkinson's disease	Parkinson's disease	rs11060180-A	"	GCST004902"	CCDC62	2 x 10^-20
+Parkinson's disease	Parkinson's disease	rs11158026-C	"	GCST004902"	GCH1	4 x 10^-16
+Parkinson's disease	Parkinson's disease	rs2921073-C	"	GCST004902"	"	AC103957.1, AC103957.2"	1 x 10^-7
+Parkinson's disease	Parkinson's disease	rs2296887-C	"	GCST004902"	"	GBF1"	2 x 10^-7
+Parkinson's disease	Parkinson's disease	rs9568188-T	"	GCST004902"	"	CAB39L"	"	4 x 10^-7"
+Parkinson's disease	Parkinson's disease	rs9516970-A	"	GCST004902"	"PSMA6P4, AL359502.1"	5 x 10^-7
+Parkinson's disease	Parkinson's disease	rs8017172-G	"	GCST004902"	"	AL355773.1, KTN1"	2 x 10^-7
+Parkinson's disease	Parkinson's disease	rs316619-C	"	GCST004902"	LTK	7 x 10^-6
+Parkinson's disease	Parkinson's disease	rs5910-C	"	GCST004902"	ITGA2B	4 x 10^-6
+Parkinson's disease	Parkinson's disease	rs6416935-G	"	GCST004902"	"AC008158.1, MED13"	4 x 10^-7
+Parkinson's disease	Parkinson's disease	rs35749011-A	"	GCST004902"	"HMGN2P18, KRTCAP2"	"	3 x 10^-35"
+Parkinson's disease	Parkinson's disease	rs823118-T	"	GCST004902"	"RAB29, NUCKS1"	1 x 10^-23
+Parkinson's disease	Parkinson's disease	rs10797576-T	"	GCST004902"	"	SIPA1L2"	8 x 10^-13
+Parkinson's disease	Parkinson's disease	rs4073221-G	"	GCST004902"	TBC1D5	2 x 10^-8
+Parkinson's disease	Parkinson's disease	rs1474055-T	"	GCST004902"	"RN7SL813P, STK39"	"	6 x 10^-26"
+Parkinson's disease	Parkinson's disease	rs12637471-G	"	GCST004902"	MCCC1	"	2 x 10^-30"
+Parkinson's disease	Parkinson's disease	rs34311866-C	"	GCST004902"	TMEM175	1 x 10^-50
+Parkinson's disease	Parkinson's disease	rs11724635-A	"	GCST004902"	"	BST1"	"	1 x 10^-19"
+Parkinson's disease	Parkinson's disease	rs2694528-C	"	GCST004902"	NDUFAF2	5 x 10^-15
+Parkinson's disease	Parkinson's disease	rs356182-G	"	GCST004902"	"AC093866.1, SNCA"	5 x 10^-123
+Parkinson's disease	Parkinson's disease	rs2740594-A	"	GCST004902"	CTSB	6 x 10^-12
+Parkinson's disease	Parkinson's disease	rs199347-A	"	GCST004902"	"	GPNMB"	4 x 10^-18
+Parkinson's disease	Parkinson's disease	rs13294100-G	"	GCST004902"	SH3GL2	5 x 10^-13
+Parkinson's disease	Parkinson's disease	rs10906923-A	"	GCST004902"	ITGA8	1 x 10^-8
+Parkinson's disease	Parkinson's disease	rs8005172-T	"	GCST004902"	GPR65	9 x 10^-11
+Parkinson's disease	Parkinson's disease	rs11343-T	"	GCST004902"	SYT17	9 x 10^-11
+Parkinson's disease	Parkinson's disease	rs4784227-T	GCST004902	CASC16	1 x 10^-10
+Parkinson's disease	Parkinson's disease	rs2942168-G	GCST000959	"LINC02210-CRHR1, LINC02210"	1 x 10^-28
+Parkinson's disease	Parkinson's disease	rs356220-T	GCST000874	"AC093866.1, SNCA"	3 x 10^-8
+Parkinson's disease	Parkinson's disease	rs4698412-A	GCST000874	BST1	2 x 10^-6
+Parkinson's disease	Parkinson's disease	rs4964469-A	GCST000874	AC079385.1	2 x 10^-7
+Parkinson's disease	Parkinson's disease	rs3129882-G	GCST000772	HLA-DRA	2 x 10^-10
+Parkinson's disease	Parkinson's disease	rs2839398-?	GCST001430	PRDM15	5 x 10^-6
+Parkinson's disease	Parkinson's disease	rs356220-?	GCST001430	"AC093866.1, SNCA"	8 x 10^-35
+Parkinson's disease	Parkinson's disease	rs9917256-?	GCST001430	"STK39, RN7SL813P"	3 x 10^-6
+Parkinson's disease	Parkinson's disease	rs4698412-?	GCST001430	BST1	3 x 10^-7
+Parkinson's disease	Parkinson's disease	rs2275336-?	GCST001430	"AL357075.4, CNKSR3"	9 x 10^-7
+Parkinson's disease	Parkinson's disease	rs2395163-?	GCST001430	"TSBP1-AS1, HLA-DRA"	"	3 x 10^-11"
+Parkinson's disease	Parkinson's disease	rs12726330-?	GCST001430	SLC50A1	5 x 10^-8
+Parkinson's disease	Parkinson's disease	rs6430538-?	GCST001430	CCNT2-AS1	2 x 10^-7
+Parkinson's disease	Parkinson's disease	rs11248060-?	GCST001430	DGKQ	3 x 10^-9
+Parkinson's disease	Parkinson's disease	rs1296028-?	GCST001430	"	FDFT1, CTSB"	1 x 10^-6
+Parkinson's disease	Parkinson's disease	rs1536076-?	GCST001430	SH3GL2	5 x 10^-7
+Parkinson's disease	Parkinson's disease	rs11026412-?	GCST001430	"AC116534.1, ANO5"	3 x 10^-6
+Parkinson's disease	Parkinson's disease	rs10877840-?	GCST001430	SLC2A13	1 x 10^-6
+Parkinson's disease	Parkinson's disease	rs10519131-?	GCST001430	AC018618.1	1 x 10^-6
+Parkinson's disease	Parkinson's disease	rs11865038-?	GCST001430	"AC135050.2, PRSS53, ZNF646"	4 x 10^-7
+Parkinson's disease	Parkinson's disease	rs199515-?	GCST001430	WNT3	3 x 10^-17
+Parkinson's disease	Parkinson's disease	rs12456492-?	GCST001430	RIT2	2 x 10^-10
+Parkinson's disease (age of onset)	"Parkinson's disease, age at onset"	rs1941184-C	GCST000490	DSG3	4 x 10^-6
+Parkinson's disease (age of onset)	"Parkinson's disease, age at onset"	rs17565841-A	GCST000490	"AC021979.2, OCA2"	3 x 10^-6
+Parkinson's disease (age of onset)	"Parkinson's disease, age at onset"	rs10918270-A	GCST000490	ATF6	8 x 10^-6
+Parkinson's disease (age of onset)	"Parkinson's disease, age at onset"	rs10767971-T	GCST000490	"QSER1, PRRG4"	5 x 10^-7
+Parkinson's disease (age of onset)	"Parkinson's disease, age at onset"	rs7577851-T	GCST000490	AAK1	9 x 10^-6
+Parkinson's disease	Parkinson's disease	rs1442190-?	GCST002455	CNTN1	2 x 10^-27
+Parkinson's disease	Parkinson's disease	rs17577094-?	GCST002455	KANSL1	8 x 10^-9
+Parkinson's disease	Parkinson's disease	rs1630500-?	GCST002455	"PMVK, KCNN3"	2 x 10^-8
+Parkinson's disease	Parkinson's disease	rs823114-?	GCST002455	"	RAB29, NUCKS1"	3 x 10^-6
+Parkinson's disease	Parkinson's disease	rs2270968-G	GCST003922	MCCC1	3 x 10^-8
+Parkinson's disease	Parkinson's disease	rs8180209-?	GCST003922	"SNCA, AC093866.1"	1 x 10^-32
+Parkinson's disease	Parkinson's disease	rs1384236-C	GCST003922	SLC2A13	8 x 10-12
+Parkinson's disease	Parkinson's disease	rs7479949-?	GCST003922	DLG2	6 x 10^-8
+Parkinson disease and lewy body pathology	"Parkinson's disease, Lewy body measurement"	rs997277-?	GCST002778	"AC092598.1, COL3A1"	5 x 10^-8
+Parkinson disease and lewy body pathology	"Parkinson's disease, Lewy body measurement"	rs10788972-?	GCST002778	TCEANC2	6 x 10^-8
+Parkinson disease and lewy body pathology	"Parkinson's disease, Lewy body measurement"	rs78736162-?	GCST002778	MX2	"	3 x 10^-7"
+Parkinson disease and lewy body pathology	"Parkinson's disease, Lewy body measurement"	rs6465122-T	GCST002778	ZP3	7 x 10^-7
+Parkinson disease and lewy body pathology	"Parkinson's disease, Lewy body measurement"	rs12921479-?	GCST002778	"TRAPPC2L, PABPN1L"	9 x 10^-7
+Parkinson disease and lewy body pathology	"Parkinson's disease, Lewy body measurement"	rs141863958-?	GCST002778	KCNIP4	1 x 10^-6
+Parkinson disease and lewy body pathology	"Parkinson's disease, Lewy body measurement"	rs816535-C	GCST002778	"MIR663AHG, FRG1CP"	1 x 10^-6
+Parkinson disease and lewy body pathology	"Parkinson's disease, Lewy body measurement"	rs7984966-?	GCST002778	"HTR2A, HTR2A-AS1"	2 x 10^-6
+Parkinson disease and lewy body pathology	"Parkinson's disease, Lewy body measurement"	rs4778720-?	GCST002778	"	AC026826.3, AC023968.1"	2 x 10^-6
+Parkinson disease and lewy body pathology	"Parkinson's disease, Lewy body measurement"	rs12959200-?	GCST002778	"	AC079070.1, LINC02582"	2 x 10^-6
+"Parkinson's disease	"	"Parkinson's disease	"	rs1223271-G	GCST000528	"AL121782.1, ISM1"	5 x 10^-6
+"Parkinson's disease	"	"Parkinson's disease	"	rs6812193-C	GCST000528	"	FAM47E-STBD1, AC034139.1, FAM47E"	4 x 10^-7
+"Parkinson's disease	"	"Parkinson's disease	"	rs7077361-T	GCST000528	ITGA8	5 x 10^-6
+"Parkinson's disease	"	"Parkinson's disease	"	rs2736990-C	GCST000528	SNCA	2 x 10^-16
+"Parkinson's disease	"	"Parkinson's disease	"	rs199533-C	GCST000528	NSF	1 x 10^-14
+"Parkinson's disease	"	"Parkinson's disease	"	rs393152-A	GCST000528	"LINC02210-CRHR1, LINC02210"	2 x 10^-16
+"Parkinson's disease	"	"Parkinson's disease	"	rs823128-A	GCST000528	NUCKS1	7 x 10^-8
+"Parkinson's disease	"	"Parkinson's disease	"	rs17115100-G	GCST000528	"CYP17A1, WBP1L"	7 x 10^-8
+"Parkinson's disease	"	"Parkinson's disease	"	rs6532197-G	GCST000528	"MMRN1, SNCA-AS1"	1 x 10^-7
+"Parkinson's disease	"	"Parkinson's disease	"	rs12431733-T	GCST000528	"	AL365295.1, LINC02331"	3 x 10^-6
+"Parkinson's disease	"	"Parkinson's disease	"	rs34778348-?	GCST001445	LRRK2	3 x 10^-21
+"Parkinson's disease	"	"Parkinson's disease	"	rs1491942-?	GCST001445	LRRK2	6 x 10^-15
+"Parkinson's disease	"	"Parkinson's disease	"	rs11248060-?	GCST001445	DGKQ	3 x 10^-12
+"Parkinson's disease	"	"Parkinson's disease	"	H1H2-?	GCST001445	-	"	8 x 10^-52"
+"Parkinson's disease	"	"Parkinson's disease	"	rs356219-?	GCST001445	"SNCA, AC093866.1"	6 x 10^-65
+"Parkinson's disease	"	"Parkinson's disease	"	rs6532194-?	GCST001445	"SNCA-AS1, MMRN1"	5 x 10^-11
+"Parkinson's disease	"	"Parkinson's disease	"	rs6532194-?	GCST000855	MAPT	7 x 10^-12
+"Parkinson's disease	"	"Parkinson's disease	"	rs7617877-A	GCST000855	"RBMS3, AC098650.1	"	3 x 10^-6
+"Parkinson's disease	"	"Parkinson's disease	"	rs356220-A	GCST000855	"AC093866.1, SNCA"	"	9 x 10^-16"
+"Parkinson's disease	"	"Parkinson's disease	"	rs11158026-C	GCST002544	GCH1	6 x 10^-11
+"Parkinson's disease	"	"Parkinson's disease	"	rs1555399-T	GCST002544	TMEM229B	7 x 10^-14
+"Parkinson's disease	"	"Parkinson's disease	"	rs2414739-A	GCST002544	AC018618.1	1 x 10^-11
+"Parkinson's disease	"	"Parkinson's disease	"	rs14235-A	GCST002544	"	BCKDK"	2 x 10^-12
+"Parkinson's disease	"	"Parkinson's disease	"	rs17649553-C	GCST002544	MAPT	2 x 10^-48
+"Parkinson's disease	"	"Parkinson's disease	"	rs12456492-G	GCST002544	RIT2	8 x 10^-12
+"Parkinson's disease	"	"Parkinson's disease	"	rs62120679-T	GCST002544	TMPRSS9	6 x 10^-7
+"Parkinson's disease	"	"Parkinson's disease	"	rs8118008-A	GCST002544	"DDRGK1, LZTS3"	3 x 10^-11
+"Parkinson's disease	"	"Parkinson's disease	"	rs591323-G	GCST002544	"	AC011586.2"	"	7 x 10^-8"
+"Parkinson's disease	"	"Parkinson's disease	"	rs35749011-A	GCST002544	"	HMGN2P18, KRTCAP2"	1 x 10^-29
+"Parkinson's disease	"	"Parkinson's disease	"	rs823118-T	GCST002544	"RAB29, NUCKS1"	2 x 10^-16
+"Parkinson's disease	"	"Parkinson's disease	"	rs10797576-T	GCST002544	SIPA1L2	5 x 10^-10
+"Parkinson's disease	"	"Parkinson's disease	"	rs6430538-C	GCST002544	CCNT2-AS1	"	9 x 10^-20"
+"Parkinson's disease	"	"Parkinson's disease	"	rs1474055-T	GCST002544	"RN7SL813P, STK39"	1 x 10^-20
+"Parkinson's disease	"	"Parkinson's disease	"	rs12637471-G	GCST002544	MCCC1	2 x 10^-21
+"Parkinson's disease	"	"Parkinson's disease	"	rs34311866-C	GCST002544	TMEM175	1 x 10^-43
+"Parkinson's disease	"	"Parkinson's disease	"	rs11724635-A	GCST002544	"	BST1"	9 x 10^-18
+"Parkinson's disease	"	"Parkinson's disease	"	rs6812193-C	GCST002544	"FAM47E-STBD1, AC034139.1, FAM47E"	3 x 10^-11
+"Parkinson's disease	"	"Parkinson's disease	"	rs356182-G	GCST002544	"AC093866.1, SNCA"	"	4 x 10^-73"
+"Parkinson's disease	"	"Parkinson's disease	"	rs9275326-C	GCST002544	"	MTCO3P1, HLA-DQB1"	1 x 10^-12
+"Parkinson's disease	"	"Parkinson's disease	"	rs199347-A	GCST002544	GPNMB	1 x 10^-12
+"Parkinson's disease	"	"Parkinson's disease	"	rs117896735-A	GCST002544	INPP5F	4 x 10^-13
+"Parkinson's disease	"	"Parkinson's disease	"	rs3793947-G	GCST002544	DLG2	4 x 10^-7
+"Parkinson's disease	"	"Parkinson's disease	"	rs329648-T	GCST002544	"AP001979.1, IGSF9B"	1 x 10^-11
+"Parkinson's disease	"	"Parkinson's disease	"	rs76904798-T	GCST002544	"LRRK2, LRRK2-DT"	5 x 10^-14
+"Parkinson's disease	"	"Parkinson's disease	"	rs11060180-A	GCST002544	CCDC62	6 x 10^-12
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs6825004-C	GCST009325	"SCARB2, AC110795.1"	1 x 10^-9
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs35749011-A	GCST009325	"	HMGN2P18, KRTCAP2"	2 x 10^-70
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs76763715-T	GCST009325	GBA	2 x 10^-22
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs6658353-C	GCST009325	"FCGR2A, AL592295.3"	6 x 10^-12
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs11578699-T	GCST009325	"VAMP4, Z98751.1"	4 x 10^-9
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs5019538-A	GCST009325	"AC093866.1, SNCA"	1 x 10^-36
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs13117519-T	GCST009325	"	CAMK2D, RNU1-138P"	1 x 10^-12
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs10797576-T	GCST009325	"	SIPA1L2"	7 x 10^-17
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs76116224-A	GCST009325	KCNS3	1 x 10^-8
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs2042477-A	GCST009325	KCNIP3	1 x 10^-8
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs11950533-A	GCST009325	AC006077.1	7 x 10^-9
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs4140646-A	GCST009325	"AL009179.2, RSL24D1P1"	"	6 x 10^-12"
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs9261484-T	GCST009325	TRIM40	2 x 10^-8
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs112485576-A	GCST009325	"HLA-DQA1, HLA-DRB1"	7 x 10^-28
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs12528068-T	GCST009325	"RNU4-66P, RIMS1"	2 x 10^-10
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs55961674-T	GCST009325	KPNA1	1 x 10^-11
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	s11707416-A	GCST009325	MED12L	1 x 10^-10
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs1450522-A	GCST009325	SPTSSB	5 x 10^-10
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs1293298-A	GCST009325	CTSB	4 x 10^-16
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs620513-T	GCST009325	AC011586.2	3 x 10^-15
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs2280104-T	GCST009325	BIN3	1 x 10^-8
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs34311866-T	GCST009325	TMEM175	1 x 10^-69
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs4698412-A	GCST009325	BST1	2 x 10^-28
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs34025766-A	GCST009325	LCORL	3 x 10^-10
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs114138760-C	GCST009325	PMVK	4 x 10^-9
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs4101061-A	GCST009325	"	FAM47E, SCARB2"	5 x 10^-19
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs6854006-T	GCST009325	"	AC034139.1, FAM47E, FAM47E-STBD1"	6 x 10^-21
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs356182-A	GCST009325	"	AC093866.1, SNCA"	4 x 10^-154
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs823118-T	GCST009325	"RAB29, NUCKS1"	"	1 x 10^-29"
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs11557080-A	GCST009325	"	RAB29"	3 x 10^-22
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs4653767-T	GCST009325	ITPKB	1 x 10^-15
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs62333164-A	GCST009325	CLCN3	2 x 10^-10
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs1867598-A	GCST009325	ELOVL7	3 x 10^-23
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs26431-C	GCST009325	PAM	2 x 10^-9
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs11683001-A	GCST009325	MAP4K4	8 x 10^-13
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs57891859-A	GCST009325	TMEM163	5 x 10^-14
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs1474055-T	GCST009325	"RN7SL813P, STK39"	3 x 10^-39
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs73038319-A	GCST009325	TBC1D5	6 x 10^-13
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs6808178-T	GCST009325	"	AC098650.1, RBMS3"	8 x 10^-12
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs12497850-T	GCST009325	IP6K2	1 x 10^-10
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs997368-A	GCST009325	"	CCN6, LINC02527"	2 x 10^-9
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs75859381-T	GCST009325	"	AL137783.1, HMGB1P13"	1 x 10^-10
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs199351-A	GCST009325	GPNMB	5 x 10^-26
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs76949143-A	GCST009325	"	AC008267.3, AC006001.3"	1 x 10^-8
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs10513789-T	GCST009325	MCCC1	1 x 10^-34
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs873786-T	GCST009325	"	GAK"	"	2 x 10-^21"
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs2086641-T	GCST009325	CYRIB	2 x 10^-8
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs13294100-T	GCST009325	SH3GL2	9 x 10^-18
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs10756907-A	GCST009325	SH3GL2	5 x 10^-17
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs6476434-T	GCST009325	UBAP2	7 x 10^-9
+Parkinson's disease in GBA mutation carriers	"	Parkinson's disease, GBA carrier status"	rs356219-?	GCST009373	"	SNCA, AC093866.1"	"	2 x 10^-11"
+Parkinson's disease in GBA mutation carriers	"	Parkinson's disease, GBA carrier status"	rs1293298-?	GCST009373	CTSB	6 x 10^-6
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs12600861-A	GCST009325	CHRNB1	1 x 10^-8
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs12951632-T	GCST009325	RETREG3	1 x 10^-9
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs2269906-A	GCST009325	UBTF	6 x 10^-10
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs850738-A	GCST009325	FAM171A2	1 x 10^-11
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs62053943-T	GCST009325	"	LINC02210-CRHR1"	4 x 10^-68
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs117615688-A	GCST009325	"	LINC02210-CRHR1"	"	7 x 10^-16"
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs11658976-A	GCST009325	WNT3	4 x 10^-8
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs61169879-T	GCST009325	BRIP1	9 x 10^-10
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs666463-A	GCST009325	DNAH17	3 x 10^-9
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs1941685-T	GCST009325	ASXL3	2 x 10^-8
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs12456492-A	GCST009325	RIT2	4 x 10^-23
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs8087969-T	GCST009325	"SMAD4, SRSF10P1"	1 x 10^-8
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs55818311-T	GCST009325	"	SPPL2B, AC005258.1"	4 x 10^-10
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs77351827-T	GCST009325	"	CRLS1, AL035461.4"	9 x 10^-9
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs2248244-A	GCST009325	"	DYRK1A"	"	3 x 10^-11"
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs35643925-A	GCST009325	"	SEMA4A, AL135927.1"	"	8 x 10^-22"
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs4954162-A	GCST009325	"	TMEM163"	2 x 10^-8
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs356228-C	GCST009325	"	AC093866.1, AC097478.4"	"	1 x 10^-48"
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs356203-T	GCST009325	SNCA	5 x 10^-149
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs6875262-T	GCST009325	"	ZNF608, AC113398.1"	1 x 10^-8
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs9267659-A	GCST009325	"	EHMT2-AS1, SLC44A4"	4 x 10^-11
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs181609621-A	GCST009325	"	DNM1L, FGD4"	"	8 x 10^-11"
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs117073808-T	GCST009325	MUC19	2 x 10^-20
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs141128804-T	GCST009325	MUC19	6 x 10^-14
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs138017112-C	GCST009325	"	AC090630.1"	7 x 10^-12
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs144755950-T	GCST009325	GXYLT1	2 x 10^-10
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs17686238-T	GCST009325	"RNA5SP443, AC003070.2"	"	8 x 10^-27"
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs9912362-T	GCST009325	"	LINC02210-CRHR1"	"	2 x 10^-13"
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs7221167-T	GCST009325	"	MAPT-AS1"	1 x 10^-37
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs7225002-A	GCST009325	KANSL1	2 x 10^-40
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs199453-T	GCST009325	NSF	9 x 10^-67
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs2295545-T	GCST009325	"DDRGK1, LZTS3"	8 x 10^-11
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs896435-T	GCST009325	ITGA8	"	3 x 10^-13"
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs10748818-A	GCST009325	GBF1	1 x 10^-9
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs72840788-A	GCST009325	BAG3	"	2 x 10^-11"
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs117896735-A	GCST009325	INPP5F	2 x 10^-28
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs7938782-A	GCST009325	RNF141	2 x 10^-9
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs12283611-A	GCST009325	DLG2	3 x 10^-10
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs3802920-T	GCST009325	IGSF9B	"	6 x 10^-20"
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs76904798-T	GCST009325	"LRRK2, LRRK2-DT"	"	2 x 10^-28"
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs34637584-A	GCST009325	LRRK2	4 x 10^-148
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs7134559-T	GCST009325	"SLC38A1, AC084878.1"	4 x 10^-8
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs10847864-T	GCST009325	HIP1R	1 x 10^-37
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs11610045-A	GCST009325	"	FBRSL1, AC079031.2"	2 x 10^-10
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs9568188-T	GCST009325	CAB39L	1 x 10^-8
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs4771268-T	GCST009325	"	MBNL2, LINC00456"	1 x 10^-9
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs12147950-T	GCST009325	MIPOL1	4 x 10^-8
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs11158026-T	GCST009325	GCH1	"	2 x 10^-16"
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs3742785-A	GCST009325	RPS6KL1	"	2 x 10^-9"
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs979812-T	GCST009325	"GPR65, RNU6-835P"	6 x 10^-11
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs2251086-T	GCST009325	AC018618.1	6 x 10^-18
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs6497339-A	GCST009325	SYT17	3 x 10^-11
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs2904880-C	GCST009325	"CD19, RABEP2"	"	8 x 10^-10"
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs11150601-A	GCST009325	SETD1A	5 x 10^-20
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs6500328-A	GCST009325	NOD2	2 x 10^-9
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs3104783-A	GCST009325	"	CASC16"	1 x 10^-12
+"Parkinson's disease or first degree relation to individual with Parkinson's disease	"	"Parkinson's disease	"	rs10221156-A	GCST009325	"	PHBP21"	1 x 10^-10
+Parkinson's disease	Parkinson's disease	rs6826785-?	GCST010049	SNCA	"	2 x 10^-37"
+Parkinson's disease	Parkinson's disease	rs6679073-?	GCST010049	"	SLC41A1, AC119673.2"	"	4 x 10^-21"
+Parkinson's disease	Parkinson's disease	rs2292056-?	GCST010049	"MCCC1, MCCC1-AS1"	8 x 10^-17
+Parkinson's disease	Parkinson's disease	rs16846351-?	GCST010049	"	ITPKB-IT1, ITPKB"	"	8 x 10^-10"
+Parkinson's disease	Parkinson's disease	rs12278023-?	GCST010049	DLG2	2 x 10^-8
+Parkinson's disease	Parkinson's disease	rs1887316-?	GCST010049	FYN	3 x 10^-8
+Parkinson's disease	Parkinson's disease	rs4130047-?	GCST010049	"	RIT2"	5 x 10^-8
+Parkinson's disease	Parkinson's disease	rs6449168-?	GCST010049	BST1	4 x 10^-7
+Parkinson's disease	Parkinson's disease	rs34311866-?	GCST010049	TMEM175	7 x 10^-6
+Parkinson's disease	Parkinson's disease	rs246814-C	GCST010049	"	SV2C, AC113404.1"	6 x 10^-10
+Parkinson's disease (age of onset)	"	Parkinson's disease, age at onset"	rs356203-?	GCST007780	SNCA	"	2 x 10^-12"
+Parkinson's disease (age of onset)	"	Parkinson's disease, age at onset"	rs983361-?	GCST007780	"	SNCA-AS1"	7 x 10^-6
+Parkinson's disease (age of onset)	"	Parkinson's disease, age at onset"	rs34311866-C	GCST007780	TMEM175	1 x 10^-8
+Parkinson's disease (age of onset)	"	Parkinson's disease, age at onset"	rs429358-?	GCST007780	APOE	6 x 10^-8
+Parkinson's disease (age of onset)	"	Parkinson's disease, age at onset"	rs356203-T	GCST009513	"	SNCA"	2 x 10^-7
+Parkinson's disease (age of onset)	"	Parkinson's disease, age at onset"	rs9356013-?	GCST009513	PRKN	"	4 x 10^-13"
+Parkinson's disease	Parkinson's disease	rs356182-G	GCST009512	"	AC093866.1, SNCA"	2 x 10^-9
+Parkinson's disease	Parkinson's disease	rs190807041-G	GCST009512	"MUC19, LRRK2"	"	7 x 10^-11"
+Parkinson's disease	Parkinson's disease	rs113434679-A	GCST009512	KANSL1	9 x 10^-13
+Parkinson's disease	Parkinson's disease	rs9275152-C	GCST009512	"	MTCO3P1, HLA-DQB1"	"	2 x 10^-8"
+Parkinson's disease	Parkinson's disease	rs62053943-T	GCST009512	LINC02210-CRHR1	8 x 10^-9
+Parkinson's disease	Parkinson's disease	rs34311866-C	GCST009512	TMEM175	3 x 10^-7
+Parkinson's disease	Parkinson's disease	rs11150601-G	GCST009512	SETD1A	"	6 x 10^-6"
+"	Parkinsonism in frontotemporal lobe dementia"	"Parkinson's disease, Frontotemporal dementia"	rs3773384-C	GCST006153	"CHL1, CHL1-AS1"	4 x 10^-6
+"	Parkinsonism in frontotemporal lobe dementia"	"Parkinson's disease, Frontotemporal dementia"	rs34656641-C	GCST006153	"	SP1"	8 x 10^-6
+"	Parkinsonism in frontotemporal lobe dementia"	"Parkinson's disease, Frontotemporal dementia"	rs17833740-T	GCST006153	LINC01500	9 x 10^-6
